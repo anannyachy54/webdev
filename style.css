@@ -1,0 +1,19 @@
+div{
+    weight:300px;
+    height: 300px;
+    
+    background-color:rgba(17, 92, 90, 0.905) ;
+}
+.tx{ 
+    background-color:rgba(124, 12, 123, 0.995) ;
+}
+
+.tx1{
+    color:rosybrown;
+}
+ h1{
+    color:rgba(112, 187, 216, 0.889);
+}
+.btn{
+    color:rgb(181, 183, 45);
+}
